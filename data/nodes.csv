@@ -1,0 +1,166 @@
+node_id,name,node_type,jurisdiction,address_id,pep_flag,listed,is_target,client_id,structure_id
+N0001,Stratos Industries GmbH,COMPANY,DE,AD-0001,False,False,True,OWN-1001,S001
+N0002,Oakmere Estates S.a r.l.,COMPANY,LU,AD-0002,False,False,False,,S001
+N0003,Amara Kowalski,INDIVIDUAL,US,,False,False,False,,S001
+N0004,Marco Weber,INDIVIDUAL,PL,,False,False,False,,S001
+N0005,Alder Investments S.a r.l.,COMPANY,LU,AD-0005,False,False,True,OWN-1002,S002
+N0006,Vantor Partners S.a r.l.,COMPANY,LU,AD-0006,False,False,False,,S002
+N0007,Stratos Partners Ltd,COMPANY,CY,AD-0007,False,False,False,,S002
+N0008,Kestrel Technologies Ltd,COMPANY,VG,AD-0008,False,False,False,,S002
+N0009,Quorum Estates Ltd,COMPANY,KY,AD-0009,False,False,False,,S002
+N0010,Maria Rossi,INDIVIDUAL,PL,,False,False,False,,S002
+N0011,Meridian Trading B.V.,COMPANY,NL,AD-0011,False,False,True,OWN-1003,S003
+N0012,Halcyon Assets SAS,COMPANY,FR,AD-0012,False,False,False,,S003
+N0013,Aurelia Holdings Ltd,COMPANY,IE,AD-0013,False,False,False,,S003
+N0014,Yuki Fischer,INDIVIDUAL,IN,,False,False,False,,S003
+N0015,Nadia Weber,INDIVIDUAL,FR,,False,False,False,,S003
+N0016,Priya Khan,INDIVIDUAL,SG,,False,False,False,,S003
+N0017,Meridian Logistics S.a r.l.,COMPANY,LU,AD-0017,False,False,True,OWN-1004,S004
+N0018,Brightwell Estates S.a r.l.,COMPANY,LU,AD-0018,False,False,False,,S004
+N0019,Listed Person 1 (synthetic),INDIVIDUAL,--,,False,True,False,,S004
+N0020,Alex Novak,INDIVIDUAL,NL,,False,False,False,,S004
+N0021,Meridian Logistics SAS,COMPANY,FR,AD-0021,False,False,True,OWN-1005,S005
+N0022,Vantor Holdings GmbH,COMPANY,DE,AD-0022,False,False,False,,S005
+N0023,Listed Person 2 (synthetic),INDIVIDUAL,--,,False,True,False,,S005
+N0024,Listed Person 3 (synthetic),INDIVIDUAL,--,,False,True,False,,S005
+N0025,Jonas Dubois,INDIVIDUAL,DE,,False,False,False,,S005
+N0026,Verity Assets Ltd,COMPANY,IE,AD-0026,False,False,True,OWN-1006,S006
+N0027,Listed Person 4 (synthetic),INDIVIDUAL,--,,False,True,False,,S006
+N0028,Marco Silva,INDIVIDUAL,DE,,False,False,False,,S006
+N0029,Vantor Holdings S.a r.l.,COMPANY,LU,AD-0029,False,False,True,OWN-1007,S007
+N0030,Listed Person 5 (synthetic),INDIVIDUAL,--,,False,True,False,,S007
+N0031,Rahul Petrov,INDIVIDUAL,NL,,False,False,False,,S007
+N0032,Kestrel Group B.V.,COMPANY,NL,AD-0032,False,False,True,OWN-1008,S008
+N0033,Alder Technologies S.a r.l.,COMPANY,LU,AD-0033,False,False,False,,S008
+N0034,Listed Person 6 (synthetic),INDIVIDUAL,--,,False,True,False,,S008
+N0035,Rahul Hansen,INDIVIDUAL,IN,,False,False,False,,S008
+N0036,Corvus Advisory S.a r.l.,COMPANY,LU,AD-0036,False,False,True,OWN-1009,S009
+N0037,Lumen Technologies S.a r.l.,COMPANY,LU,AD-0037,False,False,False,,S009
+N0038,Vantor Trading Ltd,COMPANY,IE,AD-0038,False,False,False,,S009
+N0039,Listed Person 7 (synthetic),INDIVIDUAL,--,,False,True,False,,S009
+N0040,Corvus Estates Ltd,COMPANY,IE,AD-0040,False,False,True,OWN-1010,S010
+N0041,Tidewater Trading AG,TRUST,CH,AD-0041,False,False,False,,S010
+N0042,Lena Rossi,INDIVIDUAL,GB,,False,False,False,,S010
+N0043,Elena Dubois,INDIVIDUAL,LU,,False,False,False,,S010
+N0044,Rahul Dubois,INDIVIDUAL,PL,,False,False,False,,S010
+N0045,Corvus Technologies GmbH,COMPANY,DE,AD-0045,False,False,True,OWN-1011,S011
+N0046,Kestrel Group AG,TRUST,CH,AD-0046,False,False,False,,S011
+N0047,Brightwell Logistics S.a r.l.,COMPANY,LU,AD-0047,False,False,True,OWN-1012,S012
+N0048,Stratos Resources GmbH,COMPANY,DE,AD-0048,False,False,False,,S012
+N0049,Lena Petrov,INDIVIDUAL,PL,,False,False,False,,S012
+N0050,Amara Mehta,INDIVIDUAL,SG,,False,False,False,,S012
+N0051,Aurelia Group S.a r.l.,COMPANY,LU,AD-0051,False,False,True,OWN-1013,S013
+N0052,Sofia Martin,INDIVIDUAL,DE,,True,False,False,,S013
+N0053,Elena Novak,INDIVIDUAL,IT,,False,False,False,,S013
+N0054,Brightwell Holdings Ltd,COMPANY,IE,AD-0054,False,False,True,OWN-1014,S014
+N0055,Brightwell Group GmbH,LISTED_COMPANY,DE,AD-0055,False,False,False,,S014
+N0056,Tobias Khan,INDIVIDUAL,IT,,False,False,False,,S014
+N0057,Lumen Industries S.a r.l.,COMPANY,LU,AD-0057,False,False,True,OWN-1015,S015
+N0058,Marco Rossi,INDIVIDUAL,IT,,False,False,False,,S015
+N0059,Lena Martin,INDIVIDUAL,ES,,False,False,False,,S015
+N0060,Clara Petrov,INDIVIDUAL,LU,,False,False,False,,S015
+N0061,Lukas Costa,INDIVIDUAL,DE,,False,False,False,,S015
+N0062,Sofia Khan,INDIVIDUAL,BR,,False,False,False,,S015
+N0063,Tidewater Group S.a r.l.,COMPANY,LU,AD-0063,False,False,True,OWN-1016,S016
+N0064,Sofia Dubois,INDIVIDUAL,SG,,False,False,False,,S016
+N0065,Jonas Laurent,INDIVIDUAL,ES,,False,False,False,,S016
+N0066,Listed Person 8 (synthetic),INDIVIDUAL,--,,False,True,False,,S016
+N0067,Cornelis Brandt,INDIVIDUAL,BR,,False,False,False,,SHARED
+N0068,Pinecrest Industries B.V.,COMPANY,NL,AD-0068,False,False,True,OWN-1017,S017
+N0069,Oakmere Logistics Ltd,COMPANY,IE,AD-VIRTUAL-01,False,False,False,,S017
+N0070,Amara Khan,INDIVIDUAL,US,,False,False,False,,S017
+N0071,Oakmere Estates SAS,COMPANY,FR,AD-0071,False,False,True,OWN-1018,S018
+N0072,Lumen Assets S.a r.l.,COMPANY,LU,AD-VIRTUAL-01,False,False,False,,S018
+N0073,Lukas Dubois,INDIVIDUAL,US,,False,False,False,,S018
+N0074,Verity Advisory GmbH,COMPANY,DE,AD-0074,False,False,True,OWN-1019,S019
+N0075,Brightwell Holdings SAS,COMPANY,FR,AD-VIRTUAL-01,False,False,False,,S019
+N0076,Hassan Fischer,INDIVIDUAL,CH,,False,False,False,,S019
+N0077,Brightwell Investments GmbH,COMPANY,DE,AD-0077,False,False,True,OWN-1020,S020
+N0078,Verity Logistics S.a r.l.,COMPANY,LU,AD-VIRTUAL-01,False,False,False,,S020
+N0079,Jonas Silva,INDIVIDUAL,IT,,False,False,False,,S020
+N0080,Ember Assets GmbH,COMPANY,DE,AD-0080,False,False,True,OWN-1021,S021
+N0081,Meridian Estates GmbH,COMPANY,DE,AD-VIRTUAL-01,False,False,False,,S021
+N0082,Omar Dubois,INDIVIDUAL,PL,,False,False,False,,S021
+N0083,Stratos Ventures GmbH,COMPANY,DE,AD-0083,False,False,True,OWN-1022,S022
+N0084,Nordhaven Trading B.V.,COMPANY,NL,AD-VIRTUAL-01,False,False,False,,S022
+N0085,Alex Silva,INDIVIDUAL,IN,,False,False,False,,S022
+N0086,Quorum Group SAS,COMPANY,FR,AD-0086,False,False,True,OWN-1023,S023
+N0087,Vantor Capital GmbH,COMPANY,DE,AD-VIRTUAL-01,False,False,False,,S023
+N0088,Tobias Tanaka,INDIVIDUAL,NL,,False,False,False,,S023
+N0089,Brightwell Assets S.a r.l.,COMPANY,LU,AD-0089,False,False,True,OWN-1024,S024
+N0090,Kestrel Estates SAS,COMPANY,FR,AD-VIRTUAL-01,False,False,False,,S024
+N0091,Alex Kowalski,INDIVIDUAL,PL,,False,False,False,,S024
+N0092,Brightwell Trading Ltd,FUND,IE,AD-0092,False,False,True,OWN-1025,S025
+N0093,Sofia Fischer,INDIVIDUAL,FR,,False,False,False,,S025
+N0094,Meridian Industries B.V.,FUND,NL,AD-0094,False,False,True,OWN-1026,S026
+N0095,Kestrel Investments S.a r.l.,COMPANY,LU,AD-0095,False,False,False,,S026
+N0096,Rahul Weber,INDIVIDUAL,SG,,False,False,False,,S026
+N0097,Halcyon Trading S.a r.l.,COMPANY,LU,AD-0097,False,False,True,OWN-1027,S027
+N0098,Yuki Tanaka,INDIVIDUAL,PL,,False,False,False,,S027
+N0099,Jonas Costa,INDIVIDUAL,NL,,False,False,False,,S027
+N0100,Ardent Partners S.a r.l.,COMPANY,LU,AD-0100,False,False,True,OWN-1028,S028
+N0101,Corvus Holdings S.a r.l.,COMPANY,LU,AD-0101,False,False,False,,S028
+N0102,Daniel Hansen,INDIVIDUAL,DE,,False,False,False,,S028
+N0103,Solstice Assets S.a r.l.,COMPANY,LU,AD-0103,False,False,True,OWN-1029,S029
+N0104,Lukas Tanaka,INDIVIDUAL,PL,,False,False,False,,S029
+N0105,Nordhaven Resources S.a r.l.,COMPANY,LU,AD-0105,False,False,True,OWN-1030,S030
+N0106,Tidewater Resources SAS,COMPANY,FR,AD-0106,False,False,False,,S030
+N0107,Lena Kowalski,INDIVIDUAL,SG,,False,False,False,,S030
+N0108,Sofia Silva,INDIVIDUAL,PL,,False,False,False,,S030
+N0109,Maria Martin,INDIVIDUAL,BR,,False,False,False,,S030
+N0110,Halcyon Logistics S.a r.l.,COMPANY,LU,AD-0110,False,False,True,OWN-1031,S031
+N0111,Halcyon Holdings S.a r.l.,COMPANY,LU,AD-0111,False,False,False,,S031
+N0112,Tobias Okafor,INDIVIDUAL,IN,,False,False,False,,S031
+N0113,Cobalt Resources B.V.,COMPANY,NL,AD-0113,False,False,True,OWN-1032,S032
+N0114,Ingrid Mehta,INDIVIDUAL,NL,,False,False,False,,S032
+N0115,Maria Okafor,INDIVIDUAL,CH,,False,False,False,,S032
+N0116,Nordhaven Investments S.a r.l.,COMPANY,LU,AD-0116,False,False,True,OWN-1033,S033
+N0117,Corvus Group Ltd,COMPANY,IE,AD-0117,False,False,False,,S033
+N0118,Priya Petrov,INDIVIDUAL,IT,,False,False,False,,S033
+N0119,Nadia Singh,INDIVIDUAL,PL,,False,False,False,,S033
+N0120,Alex Singh,INDIVIDUAL,BR,,False,False,False,,S033
+N0121,Ardent Trading S.a r.l.,FUND,LU,AD-0121,False,False,True,OWN-1034,S034
+N0122,Meridian Partners S.a r.l.,COMPANY,LU,AD-0122,False,False,False,,S034
+N0123,Nadia Petrov,INDIVIDUAL,NL,,False,False,False,,S034
+N0124,Aurelia Ventures GmbH,COMPANY,DE,AD-0124,False,False,True,OWN-1035,S035
+N0125,Tidewater Advisory S.a r.l.,COMPANY,LU,AD-0125,False,False,False,,S035
+N0126,Nordhaven Technologies B.V.,COMPANY,NL,AD-0126,False,False,False,,S035
+N0127,Lukas Meyer,INDIVIDUAL,IT,,False,False,False,,S035
+N0128,Hassan Silva,INDIVIDUAL,IN,,False,False,False,,S035
+N0129,Corvus Holdings SAS,COMPANY,FR,AD-0129,False,False,True,OWN-1036,S036
+N0130,Stratos Resources SAS,COMPANY,FR,AD-0130,False,False,False,,S036
+N0131,Lukas Khan,INDIVIDUAL,IN,,False,False,False,,S036
+N0132,Alex Fischer,INDIVIDUAL,FR,,False,False,False,,S036
+N0133,Cobalt Advisory S.a r.l.,COMPANY,LU,AD-0133,False,False,True,OWN-1037,S037
+N0134,Elena Singh,INDIVIDUAL,IN,,False,False,False,,S037
+N0135,Jonas Novak,INDIVIDUAL,SG,,False,False,False,,S037
+N0136,Ardent Industries S.a r.l.,COMPANY,LU,AD-0136,False,False,True,OWN-1038,S038
+N0137,Aurelia Logistics S.a r.l.,COMPANY,LU,AD-0137,False,False,False,,S038
+N0138,Pinecrest Group S.a r.l.,COMPANY,LU,AD-0138,False,False,False,,S038
+N0139,Yuki Petrov,INDIVIDUAL,CH,,False,False,False,,S038
+N0140,Chen Rossi,INDIVIDUAL,DE,,False,False,False,,S038
+N0141,Amara Dubois,INDIVIDUAL,IT,,False,False,False,,S038
+N0142,Vantor Investments SAS,COMPANY,FR,AD-0142,False,False,True,OWN-1039,S039
+N0143,Corvus Ventures S.a r.l.,COMPANY,LU,AD-0143,False,False,False,,S039
+N0144,Amara Okafor,INDIVIDUAL,US,,False,False,False,,S039
+N0145,Aurelia Capital S.a r.l.,COMPANY,LU,AD-0145,False,False,True,OWN-1040,S040
+N0146,Quorum Group Ltd,COMPANY,IE,AD-0146,False,False,False,,S040
+N0147,Ember Trading GmbH,COMPANY,DE,AD-0147,False,False,False,,S040
+N0148,Hassan Mehta,INDIVIDUAL,GB,,False,False,False,,S040
+N0149,Quorum Trading S.a r.l.,FUND,LU,AD-0149,False,False,True,OWN-1041,S041
+N0150,Priya Weber,INDIVIDUAL,PL,,False,False,False,,S041
+N0151,Elena Martin,INDIVIDUAL,NL,,False,False,False,,S041
+N0152,Daniel Petrov,INDIVIDUAL,GB,,False,False,False,,S041
+N0153,Ardent Logistics GmbH,FUND,DE,AD-0153,False,False,True,OWN-1042,S042
+N0154,Meridian Trading GmbH,COMPANY,DE,AD-0154,False,False,False,,S042
+N0155,Lena Novak,INDIVIDUAL,DE,,False,False,False,,S042
+N0156,Tobias Petrov,INDIVIDUAL,SG,,False,False,False,,S042
+N0157,Verity Capital SAS,COMPANY,FR,AD-0157,False,False,True,OWN-1043,S043
+N0158,Verity Resources B.V.,COMPANY,NL,AD-0158,False,False,False,,S043
+N0159,Kestrel Partners GmbH,COMPANY,DE,AD-0159,False,False,False,,S043
+N0160,Priya Silva,INDIVIDUAL,PL,,False,False,False,,S043
+N0161,Omar Khan,INDIVIDUAL,US,,False,False,False,,S043
+N0162,Maria Costa,INDIVIDUAL,IT,,True,False,False,,S043
+N0163,Kestrel Ventures SAS,COMPANY,FR,AD-0163,False,False,True,OWN-1044,S044
+N0164,Ember Industries SAS,COMPANY,FR,AD-0164,False,False,False,,S044
+N0165,Rahul Khan,INDIVIDUAL,DE,,True,False,False,,S044
